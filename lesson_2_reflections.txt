@@ -1,0 +1,21 @@
+What happens when you initialize a repository? Why do you need to do it?
+只是添加了一个版本库，并没有向其中添加要跟踪的文件
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+工作目录是目前的文件夹；暂存区是在commit之前先存放的区域；版本库就是你用commit上传成功后的代码集合。
+我认为暂存区的设置可以使你更加理性的上传自己的文件，入后在缓冲区一起上传至版本库。
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+How do the diagrams help you visualize the branch structure?
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
